@@ -1,0 +1,28 @@
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#itens {
+    display: flex;
+    gap:20px;
+
+}
+
+p {
+  display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#sobre {
+    background-color: #cfe5fb;
+    
+}
